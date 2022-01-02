@@ -2,7 +2,7 @@
 Using https://www.youtube.com/watch?v=fBNz5xF-Kx4 by Traversy Media
 
 ## What it looks like!
-![task tracker](https://user-images.githubusercontent.com/94990857/147867237-32165d92-b379-4920-aa0f-7d9da4f81672.PNG)
+![task tracker](https://user-images.githubusercontent.com/94990857/147867427-78d9c61f-7f5e-496c-bd95-a13465072e33.PNG)
 
 
 
