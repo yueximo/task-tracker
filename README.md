@@ -1,4 +1,5 @@
 # A basic task tracker utilizing React, JavaScript, and JSON server.
+Using https://www.youtube.com/watch?v=fBNz5xF-Kx4 by Traversy Media
 
 ## What it looks like!
 ![task tracker](https://user-images.githubusercontent.com/94990857/147867237-32165d92-b379-4920-aa0f-7d9da4f81672.PNG)
